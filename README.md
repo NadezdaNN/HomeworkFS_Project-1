@@ -8,6 +8,6 @@
 Угадать загаданное компьютером число за минимальное число попыток.
 
 ### Ссылки на файлы с данными
-https://drive.google.com/file/d/13oVfdMSiOYCCdoaj6v0141wLIGkW8iQI/view?usp=sharing
+https://drive.google.com/file/d/1U0mjqmGoN2ECtxCCK4Wl51tmZDILz3PH/view?usp=sharing
 
 https://drive.google.com/file/d/1Jd5GO4uZQxSFbIVn1r8hriPw_qc8m2g9/view?usp=sharing
